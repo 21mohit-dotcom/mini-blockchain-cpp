@@ -75,6 +75,17 @@ g++ main.cpp block.cpp blockchain.cpp -lssl -lcrypto -o blockchain
 
 
 ---
+---
+
+## 🚀 Future Improvements
+
+- Implement Merkle Trees for transaction hashing
+- Add digital signatures
+- Implement peer-to-peer networking simulation
+- Improve mining performance benchmarking
+
+
+----
 
 ## 🎯 Purpose
 
